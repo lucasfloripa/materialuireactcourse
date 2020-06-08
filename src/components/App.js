@@ -18,7 +18,7 @@ function App() {
           <Route exact path="/services" component={() => <div>services</div>} />
           <Route
             exact
-            path="/customsoftwares"
+            path="/customsoftware"
             component={() => <div>customsoftwares</div>}
           />
           <Route
